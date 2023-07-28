@@ -1,6 +1,6 @@
 # DRIP: Doing Research in Public
 
-Two years ago, I wrote [this post](https://www.linkedin.com/posts/agata-branczyk_research-opensource-openscience-activity-6843530675270877184-L1un/) about how I wish we wrote papers the way we wrote open-source code. 
+Two years ago, I wrote [this post](https://www.linkedin.com/posts/agata-branczyk_research-opensource-openscience-activity-6843530675270877184-L1un/) about how I wish we wrote papers the way we wrote open-source code. Take a look at it first, especially the discussion in the comments. 
 
 In this repo, I'm going to start fleshing out some ides for how such an effort could work in practice. 
 
