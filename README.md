@@ -31,4 +31,47 @@ In this repo, I'm fleshing out some ideas for how such an effort could work in p
   - using stack exchange for research questions?
 - FAQ
 - Code of conduct
+- Glossary of terms
+    - shared praxis
+    - open source software
+    - open source science
+    - networked science
+    - collaboration marketplace
+- Further reading
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
