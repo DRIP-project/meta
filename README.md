@@ -13,7 +13,7 @@ In this repo, I'm fleshing out some ideas for how such an effort could work in p
 #### What we need:
 - An overview of the effort
 - A list of related efforts and where they overlap/differ
-   - OOSci
+   - [OOSci](https://opensource.science)
    - Networked science (Michael Nielsen)
    - Open science
    - Meta science/research
@@ -43,7 +43,7 @@ In this repo, I'm fleshing out some ideas for how such an effort could work in p
     - open source science
     - networked science
     - collaboration marketplace
-- Further reading
+- [Further reading](https://github.com/DRIP-project/meta/wiki/Further-reading)
 
 
 
