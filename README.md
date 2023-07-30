@@ -43,7 +43,7 @@ In this repo, I'm fleshing out some ideas for how such an effort could work in p
     - open source science
     - networked science
     - collaboration marketplace
-- [Further reading](https://github.com/DRIP-project/meta/wiki/Further-reading)
+- [Further reading](./wiki/further-reading.md)
 
 
 
