@@ -13,10 +13,10 @@ In this repo, I'm fleshing out some ideas for how such an effort could work in p
 #### What we need:
 - An overview of the effort
    - What: A framework for collaborative scientific research that does not rely on pre-established scientific networks. 
-   - Who:
-   - Why:
-   - When:
-   - Where:
+   - Who: Aggie + team TBD
+   - Why: There are many people who have the potential to contribute to real scientific research who are not given the opportunity due to lack of existing collaboration network and mentorship/guidance. Some examples include PhD graduates who left academia, promising students who haven't had research experience yet, etc. This framework will give these people to cotnribute meaninfully to science. This will be good for them. It will also be good for science more broadly. 
+   - When: When it is ready.
+   - Where: Everywhere.
 - A list of related efforts and where they overlap/differ
    - [OOSci](https://opensource.science)
    - Networked science (Michael Nielsen)
