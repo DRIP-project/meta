@@ -12,6 +12,11 @@ In this repo, I'm fleshing out some ideas for how such an effort could work in p
 
 #### What we need:
 - An overview of the effort
+   - What: A framework for collaborative scientific research that does not rely on pre-established scientific networks. 
+   - Who:
+   - Why:
+   - When:
+   - Where:
 - A list of related efforts and where they overlap/differ
    - [OOSci](https://opensource.science)
    - Networked science (Michael Nielsen)
