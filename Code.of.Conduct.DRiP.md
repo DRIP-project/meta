@@ -1,15 +1,4 @@
----
-tags: 🌱/٤/🟩
-type: 🌱
-subject: "DRiP"
-subsubject: "Code-of-Conduct"
-status: 🟩
-last-reviewed: 2023-08-26
-creation-date: 2023-08-26
-author: Christophe Pere
----
-
-# Code of Conduct DRiP
+# DRiP Code of Conduct
 
 ## Our Pledge
 
@@ -45,17 +34,17 @@ This Code of Conduct applies both within and in public spaces when an individual
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behaviour may be reported by contacting the project team at [[your-email@example.com](mailto:your-email@example.com)] (or create a form as qiskit COC). All complaints will be reviewed and investigated, resulting in a necessary and appropriate response to the circumstances. The project team is obligated to maintain confidentiality concerning the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Instances of abusive, harassing, or otherwise unacceptable behaviour may be reported by contacting the project lead Aggie Branczyk at [aggiebranczyk@gmail.com]". All complaints will be reviewed and investigated, resulting in a necessary and appropriate response to the circumstances. The project team is obligated to maintain confidentiality concerning the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
 ## Scientific Misconduct
 
-Collaboration members must perform research in a well-documented and ethically sound manner. Falsification of data or results, plagiarism, taking credit for other’s work or any other scientific misconduct will not be tolerated. “Data and research results should be recorded and maintained in a form that allows review, analysis, and reproduction by others.” Also, papers must include “a set of references that communicates the precedents, sources, and the context of the reported work. The deliberate omission of a pertinent author or reference is unacceptable.”2 
+Collaboration members must perform research in a well-documented and ethically sound manner. Falsification of data or results, plagiarism, taking credit for other’s work or any other scientific misconduct will not be tolerated. Data and research results should be recorded and maintained in a form that allows review, analysis, and reproduction by others. Also, papers must include a set of references, sources, and the context of the reported work. The deliberate omission of a pertinent author or reference is unacceptable.
 
 Potential conflicts of interest, e.g. related to competing collaborations, must be disclosed to the co-leads of the relevant working groups.
 
-## Publication Development, Review and Approval Processes: 
+## Publication Development, Review and Approval Processes
 The processes for publication development (including science data analysis) and internal reviews and approvals before submission to a journal are intended to assure the quality and scientific integrity of collaboration publications. The processes should be fair and transparent, allowing diverse collaboration members to participate. The process should also be as efficient as possible. This DRiP Code of Conduct policy applies throughout the publication development process.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 1.4, available at [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html). It is also adapted from [Fermi LAT Collaboration Code of Conduct](https://www-glast.stanford.edu/codeofconduct.pdf) Inspiration were also adapted from[Qiskit metapackage](https://github.com/Qiskit/qiskit-metapackage/blob/master/CODE_OF_CONDUCT.md).
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 1.4, available at [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html). It is also adapted from [Fermi LAT Collaboration Code of Conduct](https://www-glast.stanford.edu/codeofconduct.pdf) Inspiration were also adapted from [Qiskit metapackage](https://github.com/Qiskit/qiskit-metapackage/blob/master/CODE_OF_CONDUCT.md).
