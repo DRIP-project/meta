@@ -34,7 +34,7 @@ This Code of Conduct applies both within and in public spaces when an individual
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behaviour may be reported by contacting the project lead Aggie Branczyk at [aggiebranczyk@gmail.com]". All complaints will be reviewed and investigated, resulting in a necessary and appropriate response to the circumstances. The project team is obligated to maintain confidentiality concerning the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Instances of abusive, harassing, or otherwise unacceptable behaviour may be reported by contacting the project lead Aggie Branczyk at [aggiebranczyk@gmail.com]. All complaints will be reviewed and investigated, resulting in a necessary and appropriate response to the circumstances. The project team is obligated to maintain confidentiality concerning the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
 ## Scientific Misconduct
 
@@ -47,4 +47,4 @@ The processes for publication development (including science data analysis) and 
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 1.4, available at [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html). It is also adapted from [Fermi LAT Collaboration Code of Conduct](https://www-glast.stanford.edu/codeofconduct.pdf) Inspiration were also adapted from [Qiskit metapackage](https://github.com/Qiskit/qiskit-metapackage/blob/master/CODE_OF_CONDUCT.md).
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 1.4, available at [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html).  It is also adapted from [Fermi LAT Collaboration Code of Conduct](https://www-glast.stanford.edu/codeofconduct.pdf).  Inspiration was also taken from the [Qiskit metapackage](https://github.com/Qiskit/qiskit-metapackage/blob/master/CODE_OF_CONDUCT.md).
